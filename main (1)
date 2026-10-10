@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 d4c634a230776448e7918074152577b14d190007 Claude <noreply@anthropic.com> 1791659394 +0000	commit (initial): Add AmsVisa B2B landing page
+d4c634a230776448e7918074152577b14d190007 d4c634a230776448e7918074152577b14d190007 Claude <noreply@anthropic.com> 1791659398 +0000	Branch: renamed refs/heads/master to refs/heads/main
+d4c634a230776448e7918074152577b14d190007 7c2273c14f2e478f9620dfb754abc424b1c49514 Claude <noreply@anthropic.com> 1791660000 +0000	commit: Wire lead form to Formspree
+7c2273c14f2e478f9620dfb754abc424b1c49514 b2abb6d5a5967332dad48b0d0b2eb534c052ec08 Claude <noreply@anthropic.com> 1791660368 +0000	commit: Point lead form at the live Formspree endpoint
+b2abb6d5a5967332dad48b0d0b2eb534c052ec08 5865ded7ab9409161aef2e166a4bd4badc45f523 Claude <noreply@anthropic.com> 1791661032 +0000	commit: Update copy and fix spelling
+5865ded7ab9409161aef2e166a4bd4badc45f523 970061ff6546edca9b7a639036955803e14dfd5e Claude <noreply@anthropic.com> 1791661560 +0000	commit: Strengthen the post-submit confirmation
+970061ff6546edca9b7a639036955803e14dfd5e 8f222b1f37d05d3d1994a81a48c7c4f20935282d Claude <noreply@anthropic.com> 1791661799 +0000	commit: Add a passport card tucked behind the boarding pass in the hero
+8f222b1f37d05d3d1994a81a48c7c4f20935282d 2476889cb1f34a57669eea51fc22629c1928fd35 Claude <noreply@anthropic.com> 1791662103 +0000	commit: Fix passport card being almost entirely hidden

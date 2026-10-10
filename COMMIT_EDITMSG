@@ -1,0 +1,7 @@
+Fix passport card being almost entirely hidden
+
+It was only poking ~36px above the boarding pass, cutting off the
+emblem and label. Rendered both with Playwright to verify: increased
+the negative top offset, rotated it from the bottom so the top corner
+swings clear, and tightened the card's internal spacing so the visible
+sliver comfortably fits the emblem + label in light and dark mode.
